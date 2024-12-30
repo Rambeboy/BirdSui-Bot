@@ -8,7 +8,6 @@
     "start": "node app/index.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
   },
-  "bin": "index.js",
   "keywords": [
     "birds-sui",
     "sui",
