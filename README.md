@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
    ```
 2. Navigate to the project directory in your terminal
    ```bash
-   cd BirdsSui-Bot
+   cd BirdSui-Bot
    ```
 3. Install the required dependencies by running:
 
