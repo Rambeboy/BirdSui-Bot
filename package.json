@@ -5,8 +5,7 @@
   "description": "Birds-Sui-Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node app/index.js",
-    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+    "start": "node app/index.js"
   },
   "keywords": [
     "birds-sui",
