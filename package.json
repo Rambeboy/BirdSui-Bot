@@ -1,0 +1,30 @@
+{
+  "name": "Birds-Sui-Bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Birds-Sui-Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+  },
+  "bin": "index.js",
+  "keywords": [
+    "birds-sui",
+    "sui",
+    "birds-telegram",
+    "birdsx",
+    "rambeboy"
+  ],
+  "author": "Rambeboy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rambeboy/BirdsSui-Bot.git"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "luxon": "^3.5.0",
+    "winston": "^3.14.2"
+  }
+}
