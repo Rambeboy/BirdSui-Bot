@@ -3,7 +3,7 @@
   "description": "Birds-Sui-Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node app/index.js"
+    "start": "cp -r data.txt app/data.txt && node app/index.js"
   },
   "keywords": [
     "birds-sui",
