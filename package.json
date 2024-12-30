@@ -1,7 +1,5 @@
 {
   "name": "Birds-Sui-Bot",
-  "version": "1.0.0",
-  "type": "module",
   "description": "Birds-Sui-Bot",
   "main": "index.js",
   "scripts": {
